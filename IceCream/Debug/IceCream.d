@@ -1,0 +1,1 @@
+IceCream.o: ../IceCream.cpp
